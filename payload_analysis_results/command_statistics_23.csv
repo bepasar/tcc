@@ -1,0 +1,6 @@
+Most Frequent Commands (Port 23):
+rank,command,count
+1,wget,16227741
+2,curl,3823449
+3,tftp,527557
+4,ftpget,263876

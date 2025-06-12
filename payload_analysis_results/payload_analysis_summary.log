@@ -1,0 +1,25 @@
+Overall statistics:
+	Payloads processed: 14647999
+	Malicious payloads: 13056209 (89.13%)
+	Distinct Source IPs: 29556
+	Distinct Destination Ports: 875
+	URLs found: 8800
+	Filenames found: 703
+	Servers found: 6585
+	Commands found: 4
+
+Port 23 statistics:
+	Payloads processed: 12.748.501 (PORT 23 OVERALL)
+	Distinct Source IPs: 19879
+	URLs found: 3043
+	Servers found: 1883
+	Filenames found: 467
+	Commands found: 4
+
+Non-Port 23 statistics:
+	Payloads processed: 1.899.498 (ESTIMATED)
+	Distinct Source IPs: 11819
+	URLs found: 5768
+	Servers found: 5169
+	Filenames found: 285
+	Commands found: 4
